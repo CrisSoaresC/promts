@@ -1,7 +1,9 @@
 # promts
 [Podcast "Amores, Traições e Segredos" Subtítulo: O mundo das séries e filmes em detalhes.]
 https://chatgpt.com/c/6790234c-0728-8010-9c3e-6f6301379a79
+
 https://elevenlabs.io/app/speech-synthesis/text-to-speech
+
 roteiro
 o nome do podcast tem que ser enxuto, nome e subtitulo
 tem que ser um trocadilho com nomes vidrantes como amor, emoção, drama, alegria, felicidade, choro, serie, temporada
